@@ -1,0 +1,198 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+
+header
+{
+  background-image:linear-gradient(rgba(0, 0, 0, 0.5),rgba(0,0,0,0.5)), url(absolute.jpg);
+  height: 100vh;
+  background-size: cover;
+  background-position: center;
+}
+
+.main-nav
+{
+  float: right;
+  list-style: none;
+  margin-top: 30px
+}
+
+.main-nav li
+{
+  display: inline-block;
+}
+
+.main-nav li a
+{
+  color: white;
+  text-decoration: none;
+  padding: 5px 20px;
+  font-family: cursive;
+  font-size: 15px;
+}
+
+body
+{
+  font-family: monospace;
+}
+
+.row
+{
+  max-width: 1200px;
+  margin: auto;
+}
+.hero
+{
+  position: absolute;
+  width: 1200px;
+  margin-left: 0px;
+  margin-top: 200px;
+}
+
+h1
+{
+  color: yellow;
+  text-transform: uppercase;
+  font-size: 75px;
+  font-family: cursive;
+  text-align: center;
+  margin-left: 150px;
+}
+
+.pass
+{
+  position: absolute;
+  width: 1200px;
+  margin-left: 0px;
+  margin-top:50px;
+}
+h2
+{
+  color: white;
+  text-transform: uppercase;
+  font-family: cursive;
+  font-size: 50px;
+  text-align: justify;
+  margin-left: 0px;
+}
+
+.paragraph
+{
+  position: absolute;
+  margin-top: 200px;
+  background-color: #fff;
+}
+
+p1
+{
+  color: #000;
+  font-size: 25px;
+  font-family: cursive;
+  text-align: justify;
+}
+
+p2
+{
+  color: #000;
+  font-size: 25px;
+  font-family: cursive;
+  text-align: justify;
+}
+
+.service
+{
+  position: absolute;
+  margin-left: 0px;
+  margin-top: 50px;
+  font-size: 50px;
+  font-family: cursive;
+}
+
+.para
+{
+  position: absolute;
+  margin-top: 200px;
+}
+
+p
+{
+  color: #fff;
+  font-size: 25px;
+  font-family: cursive;
+  margin: 0px;
+}
+
+.form
+{
+  position: absolute;
+  background-color: white;
+  margin-left: 0px;
+  margin-top: 400px;
+  font-size: 20px;
+  font-family: cursive;
+  text-align: left;
+  color: #000  ;
+}
+
+.prob
+{
+  position: absolute;
+  margin-top: 200px;
+}
+
+h4
+{
+    color: white;
+    font-size: 25px;
+    font-family: cursive;
+    margin-left: 0px;
+    text-transform: uppercase;
+}
+
+h3
+{
+    color: white;
+    font-size: 25px;
+    font-family: cursive;
+    margin-left: 0px;
+    text-transform: uppercase;
+}
+
+p3
+{
+  color: #fff;
+  font-size: 20px;
+  font-family: cursive;
+}
+
+p4
+{
+  color: #fff;
+  font-size: 25px;
+  font-family: cursive;
+}
+
+ol
+{
+  color: white;
+  font-family: cursive;
+  font-size: 30px;
+}
+
+.grant
+{
+  position: absolute;
+  width: 1200px;
+  margin-left: 0px;
+  margin-top: 50px;
+  font-size: 25px;
+}
+
+
+.nav
+{
+  position: absolute;
+  margin-left: 0px;
+  margin-top: 50px;
+}
